@@ -1,31 +1,5 @@
-<table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 35%" />
-<col style="width: 15%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3"><p><img src="media/image2.png"
-style="width:2.4in;height:0.58819in" /></p>
-<p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></th>
-</tr>
-<tr class="odd">
-<th><p>NAME:</p>
-<p><strong>MACARAEG, JAKE RUSSELL F.</strong></p>
-<p><strong>PADILLA, ARVIN</strong></p></th>
-<th><p>DATE PERFORMED:</p>
-<p><strong>28/11/2024</strong></p></th>
-<th rowspan="2">/50 </th>
-</tr>
-<tr class="header">
-<th>Section: <strong>IDC2</strong></th>
-<th>DATE SUBMITTED:</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+![image](https://github.com/user-attachments/assets/3ff15589-7fe3-4a85-88d4-9e1059659fdc)
+
 
 # SYSADM1 -- Capacity Management & Planning {#sysadm1-capacity-management-planning}
 
@@ -447,24 +421,3 @@ Grading Rubric:
 | **Evaluation of Solutions** | Provides a thorough evaluation of the proposed solutions, considering factors like cost, complexity, and potential impact. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation. |
 | Score:                      |                                                                                                                            |                                                                         | /30                                                                            |
 
-**Part 2. Network Scalability Analysis**
-
-Recall the e-commerce website scenario we discussed earlier. Given the
-expected surge in traffic, analyze the provided network topology
-diagram. Identify potential bottlenecks and areas where scalability
-might be a concern. Propose specific strategies to improve the
-network\'s scalability and performance to ensure a seamless user
-experience during the peak traffic period. Consider factors such as
-increased user demand, new applications, and security threats.
-
-![](media/image3.png){width="5.049483814523184in"
-height="3.8229166666666665in"}
-
-| Criteria                         | Excellent \| 10pts                                                                                                                                           | Good \| 7pts                                                            | Needs Improvement \| 4pts                                                      |
-|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **Network Analysis**             | Accurately identifies potential bottlenecks, security risks, and capacity limitations.                                                                       | Identifies key network components and some potential bottlenecks.       | Identifies some basic network components but lacks a comprehensive analysis.   |
-| **Scalability Planning**         | Proposes multiple relevant solutions and provides detailed explanations, including potential drawbacks and benefits.                                         | Proposes some relevant scalability strategies but lacks detail.         | Proposes limited scalability strategies.                                       |
-| **Evaluation of Solutions**      | Proposes comprehensive scalability strategies, including specific recommendations for hardware upgrades, software configurations, and network optimizations. | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation. |
-| **Proposed Design**              | Provides a detailed and well-justified design, including network diagrams, configuration details, and implementation plans.                                  | Provides a basic design but lacks specific details and justifications.  | Does not provide a clear and detailed design.                                  |
-| **Evaluation and Justification** | Provides a thorough evaluation of the proposed solutions, considering factors like cost, complexity, and potential impact.                                   | Provides a basic evaluation of the proposed solutions, but lacks depth. | Does not evaluate the proposed solutions or provides a superficial evaluation  |
-| Score:                           |                                                                                                                                                              |                                                                         | /50                                                                            |
