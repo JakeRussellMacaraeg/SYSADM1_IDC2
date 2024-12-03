@@ -1,26 +1,5 @@
-<table>
-<colgroup>
-<col style="width: 48%" />
-<col style="width: 35%" />
-<col style="width: 15%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td colspan="3"><p><img src="media/image1.png"
-style="width:2.4in;height:0.58819in" /></p>
-<p>SCHOOL OF INFORMATION AND TECHNOLOGY</p></td>
-</tr>
-<tr class="even">
-<td>NAME: <strong>MACARAEG, JAKE RUSSELL</strong></td>
-<td>DATE PERFORMED: <strong>26/09/24</strong></td>
-<td rowspan="2">/50 </td>
-</tr>
-<tr class="odd">
-<td>Section: <strong>IDC2</strong></td>
-<td>DATE SUBMITTED: <strong>03/10/24</strong></td>
-</tr>
-</tbody>
-</table>
+![image](https://github.com/user-attachments/assets/4b417f1b-1b4c-4825-8724-a4e9b92bde27)
+
 
 # SYSADM1 -- Monitoring Print Services in Windows Server 2019 {#sysadm1-monitoring-print-services-in-windows-server-2019}
 
@@ -32,30 +11,27 @@ Part 1: Setting Up Print Services
 
 1.  Install and configure **print.srv** domain
 
-> ![](media/image2.png){width="2.802474846894138in"
-> height="0.4375612423447069in"}
+![image](https://github.com/user-attachments/assets/9ce69055-d325-4b78-bd7b-61ca5260767f)
+
 
 2.  Connect one client to the recently created domain
 
-> ![](media/image3.png){width="3.0782294400699914in"
-> height="0.8255249343832021in"}
+![image](https://github.com/user-attachments/assets/205ad594-e99e-446a-b3ef-78067638ada3)
 
 3.  Install Print Services Role:
 
-> ![](media/image4.png){width="3.604669728783902in"
-> height="1.6252263779527558in"}
+![image](https://github.com/user-attachments/assets/46f2fe6a-447e-4114-bd13-ef78e20247d8)
+
 
 4.  Search the internet for any printer installer and convert it to iso
 
-> ![](media/image5.png){width="4.604809711286089in"
-> height="0.8542858705161854in"}
+![image](https://github.com/user-attachments/assets/1d3e1a43-fde2-405a-acf7-d84917bd17ed)
+
 
 5.  Install and deploy it as network printer
 
-> ![](media/image6.png){width="5.823729221347332in"
-> height="1.1459930008748906in"}
-> ![](media/image7.png){width="5.723194444444444in"
-> height="2.5982042869641293in"}
+S![image](https://github.com/user-attachments/assets/27241980-744f-4d3c-b8cd-f28f1cf3e8aa)
+
 
 Part 2: Monitoring Print Services
 
@@ -68,26 +44,23 @@ Windows Server 2019.
 
 **SS:**
 
-![](media/image8.png){width="4.911820866141732in"
-height="3.4633694225721783in"}
+![image](https://github.com/user-attachments/assets/891c2d02-7654-4eef-84ca-37622fd368bb)
+
 
 - Navigate to Applications and Services Logs \> Microsoft \> Windows \>
   PrintService.
 
 **SS:**
 
-![](media/image9.png){width="4.846229221347332in"
-height="3.3936537620297464in"}
+![image](https://github.com/user-attachments/assets/efd8716c-6f6e-4d27-8814-2c89105e705c)
+
 
 - Review logs for print jobs, errors, and warnings.
 
 **SS:**
 
-![](media/image10.png){width="4.910982064741908in"
-height="1.1484481627296588in"}
+![image](https://github.com/user-attachments/assets/d3a625f2-2be2-4a9a-bc02-bc64056f8b81)
 
-![](media/image11.png){width="4.813171478565179in"
-height="1.4793733595800524in"}
 
 2.  Performance Monitor:
 
@@ -95,29 +68,29 @@ height="1.4793733595800524in"}
 
 **SS:**
 
-![](media/image12.png){width="4.902594050743657in"
-height="3.5145188101487315in"}
+![image](https://github.com/user-attachments/assets/57ed8883-f483-48da-b403-890823cbfad1)
+
 
 - In the left pane, expand Data Collector Sets \> System.
 
 **SS:**
 
-![](media/image13.png){width="4.9073031496062995in"
-height="2.6097145669291337in"}
+![image](https://github.com/user-attachments/assets/9e304b1e-c4c3-45bf-9f9e-13c1abc75ed4)
+
 
 - Right-click System Performance and select Start.
 
 **SS:**
 
-![](media/image14.png){width="3.691858048993876in"
-height="2.763659230096238in"}
+![image](https://github.com/user-attachments/assets/8b168a60-6a6a-48b3-80cf-6824f96ca67a)
+
 
 - Monitor performance metrics related to print services.
 
 **SS:**
 
-![](media/image15.png){width="6.373884514435695in"
-height="1.3350317147856519in"}
+![image](https://github.com/user-attachments/assets/cdcf7529-15bf-4533-8bd3-3c861c7b5093)
+
 
 3.  Using Print Management Console:
 
@@ -125,20 +98,17 @@ height="1.3350317147856519in"}
 
 **SS:**
 
-![](media/image16.png){width="6.012549212598425in"
-height="1.9857633420822398in"}
+![image](https://github.com/user-attachments/assets/c9951b8b-c997-477d-9785-ff925e61a112)
+
 
 - View active print jobs and their status
 
 - Use the Printers node to check the status of all printers.
 
-![](media/image17.png){width="3.175667104111986in"
-height="3.50538167104112in"}
-![](media/image18.png){width="3.353885608048994in"
-height="3.5351760717410325in"}
+![image](https://github.com/user-attachments/assets/5d31436f-3be2-4eaa-acc5-25472714a2a3)
 
-![](media/image19.png){width="3.253494094488189in"
-height="3.405909886264217in"}
+![image](https://github.com/user-attachments/assets/17cc9377-26c1-4bdb-9e6b-d0716d0fcbcb)
+
 
 Part 3: Exploring Third-Party Monitoring Tools
 
@@ -146,42 +116,9 @@ Part 3: Exploring Third-Party Monitoring Tools
 
     - Consider factors such as features, pricing, and compatibility with
       Windows Server 2019.
+      
+![image](https://github.com/user-attachments/assets/c877a462-9f0d-48b9-a7ff-4d7298327dba)
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p><strong>PaperCut MF</strong></p>
-<ul>
-<li><p><strong>Features:</strong> Tracks print jobs by user, department,
-or cost center, enforces print policies, and offers detailed reporting.
-It supports print quotas, secure print release, and integrates with
-multi-function devices.</p></li>
-<li><p><strong>Pricing:</strong> Pricing varies depending on the
-organization’s size and needs, but a trial version is available for
-testing.</p></li>
-<li><p><strong>Compatibility:</strong> Fully compatible with Windows
-Server 2019 and supports various printer models.</p></li>
-</ul>
-<p><strong>Print Inspector</strong></p>
-<ul>
-<li><p><strong>Features</strong>: Provides real-time monitoring of print
-jobs, logs detailed information on printing activities (user, document
-name, page count), and offers automated alerts for issues. It also
-allows for print job management, including pausing and
-resuming.</p></li>
-<li><p><strong>Pricing</strong>: Offers a one-time license fee, and a
-free trial is available for testing.</p></li>
-<li><p><strong>Compatibility</strong>: Works seamlessly with Windows
-Server 2019, supporting both local and network printers.</p></li>
-</ul></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
 
 2.  Install and Configure:
 
@@ -189,7 +126,8 @@ Server 2019, supporting both local and network printers.</p></li>
 
 **SS:**
 
-![](media/image20.png){width="4.39125in" height="3.763929352580927in"}
+![image](https://github.com/user-attachments/assets/044d3314-be94-44a2-b847-aa54ee51f802)
+
 
 - Follow the installation instructions provided by the tool\'s
   documentation.
@@ -203,18 +141,11 @@ Server 2019, supporting both local and network printers.</p></li>
     - Analyze the collected data (e.g., print volume, errors, user
       activity).
 
-> ![](media/image21.png){width="5.06038167104112in"
-> height="2.0538582677165356in"}![](media/image22.png){width="5.050833333333333in"
-> height="1.9301881014873141in"}
->
-> ![](media/image23.png){width="5.0967213473315836in"
-> height="1.9285837707786526in"}
->
-> ![](media/image24.png){width="5.117693569553806in"
-> height="1.9916469816272966in"}
->
-> ![](media/image25.png){width="5.187251749781277in"
-> height="2.010003280839895in"}
+![image](https://github.com/user-attachments/assets/0b2f20b8-1f45-4d09-aff7-77eac7a784e8)
+![image](https://github.com/user-attachments/assets/eb9313ed-bd4e-41eb-bebf-72a52e3371d2)
+![image](https://github.com/user-attachments/assets/e205524b-45b6-40b4-a9db-641e79fe7a42)
+
+
 
 Rubric
 
